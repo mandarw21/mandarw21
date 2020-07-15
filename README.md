@@ -1,4 +1,4 @@
-### Hello there <img width="48px" src="https://raw.githubusercontent.com/mandarw21/mandarw21/master/assets/Kenobi.png" />
+### Hello there <img width="36px" src="https://raw.githubusercontent.com/mandarw21/mandarw21/master/assets/Kenobi.png" />
 
 <!--
 **mandarw21/mandarw21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
