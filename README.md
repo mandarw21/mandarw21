@@ -1,4 +1,4 @@
-### Hello there <table><tr><td vlign="center"><img width="48px" src="https://raw.githubusercontent.com/mandarw21/mandarw21/master/assets/Ben%20Kenobi.png" /> text </td></tr></table>
+### Hello there <table><tr><td vlign="center"><img width="48px" src="https://raw.githubusercontent.com/mandarw21/mandarw21/master/assets/Kenobi.png" /> text </td></tr></table>
 <img width="48px" src="https://raw.githubusercontent.com/mandarw21/mandarw21/master/assets/Ben%20Kenobi.png" />
 
 <!--
