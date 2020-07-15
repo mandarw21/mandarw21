@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Mandar's github stats](https://github-readme-stats.vercel.app/api?username=mandarw21&show_icons=true&hide_border=true)
+![Mandar's github stats](https://github-readme-stats.vercel.app/api?username=mandarw21&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
